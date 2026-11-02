@@ -1,0 +1,14 @@
+{
+  "name": "Rocs-Hardcore-Probabilistic-Farming-Extended",
+  "version": "1.0.14",
+  "factorio_version": "2.1",
+  "title": "Probabilistic Agriculture",
+  "author": "thesixthroc,ichbestimmtnicht",
+  "contact": "Discord: https://discord.gg/VuVhYUBbWE",
+  "description": "Adds random variance to recipes for Jellynut, Yumako and Bioflux. This makes waste products harder to avoid on Gleba, nerfing certain strategies.",
+  "spoiling_required": true,
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age >= 2.0.0"
+  ]
+}
